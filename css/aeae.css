@@ -1,0 +1,105 @@
+.top {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px
+}
+.aeae {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px
+}
+.green {
+	FONT-SIZE: 12px; COLOR: #087474; LINE-HEIGHT: 20px
+}
+.yellow {
+	FONT-SIZE: 12px; COLOR: #673000; LINE-HEIGHT: 20px
+}
+.pink {
+	FONT-SIZE: 12px; COLOR: #ed145b; LINE-HEIGHT: 20px
+}
+.unS {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #000099; LINE-HEIGHT: 20px
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 20px
+}
+A:hover {
+	LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #000099; LINE-HEIGHT: 20px
+}
+seae {
+	FONT-SIZE: 12px; COLOR: #333333
+}
+.unsa {
+	FONT-SIZE: 12px; PAGE-BREAK-BEFORE: auto; COLOR: #333333; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.unS002 {
+	FONT-SIZE: 12px; COLOR: #333333
+}
+BODY {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://www.cncn.com/images/background1.gif); MARGIN: 0px
+}
+.style1 {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.style2 {
+	FONT-SIZE: 10px; COLOR: #ffffff
+}
+.style3 {
+	FONT-SIZE: 12px; COLOR: #ffffff
+}
+.top A:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.top A:hover {
+	FONT-SIZE: 12px; COLOR: #ffff00; TEXT-DECORATION: none
+}
+FONT {
+	FONT-SIZE: 12px; COLOR: #333333; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 12px
+}
+INPUT {
+	FONT: 12px "ËÎÌו","Verdana","Geneva", "Arial", "Helvetica","sans-serif"
+}
+.pt9 {
+	FONT-SIZE: 12px; COLOR: #000099; LINE-HEIGHT: 120%
+}
+.pt10 {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 120%
+}
+BODY {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(images/background1.gif); LINE-HEIGHT: 25px; TEXT-ALIGN: center
+}
+.red1 A:link {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.red1 A:visited {
+	COLOR: #ff0000
+}
+.red1 A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.black1 A:link {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+.black1 A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.black1 A:hover {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: underline
+}
+.atop {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; BORDER-LEFT: #ffffff 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+.atop2 {
+	BORDER-RIGHT: #2e80d4 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #2e80d4 1px solid; PADDING-LEFT: 0px; BACKGROUND: #e7efff; PADDING-BOTTOM: 0px; BORDER-LEFT: #2e80d4 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+.atop3 {
+	BORDER-RIGHT: #2e80d4 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #2e80d4 1px solid; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 0px; BORDER-LEFT: #2e80d4 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}

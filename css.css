@@ -1,0 +1,20 @@
+/* CSS Document */
+.tit{ font-size:12px; color:#fff; font-weight:bold;}
+.ti2{ font-size:12px; color:#ff6600; font-weight:bold;}
+.tit3{ font-size:12px; color:#0072FF; font-weight:bold;}
+.tit4{ font-size:12px; color:#6DBF00; font-weight:bold;}
+
+.bod{ font-size:12px; color:#333; }
+.bod:link{color:#333; text-decoration:none;}
+.bod:hover{color:#FF6600; text-decoration:none;}
+.bod:visited {color:#333;text-decoration:none;}
+
+/*#ct{ BORDER: #ff6600 1px solid;}*/
+#c1{margin:0px auto; float:left}
+#c1 ul li{margin:0px auto; float:left; }
+#c1 ul li a{margin:0px auto; display:block; width:80px; height:30px; line-height:30px; text-align:center}
+#c1 a:hover{ color:#ff6600;}
+.txtBox{margin:0px auto; float:left; width:100%;padding-left:12px;}
+.txtBox ul li{margin:0px auto; float:left; }
+.txtBox ul li a{margin:0px auto; display:block; width:68px; height:30px; line-height:30px; text-align:center;}
+.txtBox a:hover{ color:#ff6600;}

@@ -1,0 +1,78 @@
+a:link,a:visited {color:#000;background:inherit;}
+a:hover {color:red;background:inherit;}
+#SAd1 li .a0 {color:#00f;}
+#SAd1 li .a1 {color:#369;}
+.CB .txt a,.CB .txt a:visited {color:#07379F;background:inherit;}
+#Game {background:#f7f7f7;color:inherit;border-color:#D0E4FD;}
+#CBSo {margin-top:8px;background:#FFF7D6;color:inherit;border-color:#FFCF5F;}
+#CBSo .tit .InpBtn {background:#fff;color:inherit;}
+#Report {background:#f7f7f7;color:inherit;border-color:#D0E4FD;}
+#FL a,#FL a:visited {color:#030;background:inherit;}
+#FL a.goback,#FL a.goback:visited {color:#00f;}
+#CUrl li.t a,#CUrl li.t a:visited {color:#00f;}
+#CUrl li.b a,#CUrl li.b a:visited {color:#369;}
+.CS .tit {border-color:#fedd00;background:#FEDD00;color:inherit;}
+.CS .tit a,.CS .tit a:visited {color:#000;background:inherit;}
+.CS .tit a:hover {color:#f00;background:inherit;}
+.CS .txt {border-color:#FEDD00;}
+.CS .txt ul {background:#FFF9EE;color:inherit;}
+.CS .txt .bg0 {background:#FFF9EE;color:inherit;}
+.CS .txt .bg1 {background:#FFF7D6;color:inherit;}
+.SubPage .CS .tit {background:#D0E4FD;}
+.SubPage .CS #TreeMenu {border-color:#D0E4FD;background:#FCFCFC;}
+.SubPage .CS .txt ul {background:#FCFCFC;}
+#SBtn ul {background:url(img3/line_3.gif) no-repeat 74px 0;}
+#SBtn li a {background:none;border-top-color:#fff;}
+#SBtn li.btn2 a {background:#77A7EF;color:#fff;border-top-color:#77A7EF;}
+#SInp {border-color:#77A7EF;background-color:#D7E7FF;background-image:url(img3/ico_arrow.gif);color:inherit;}
+#SInp li.inp .txt {border-color:#474747 #fff #fff #474747;}
+#SInp li.inp .btn {background:#21AADE;color:#FFF;border-color:#fff #85878C #85878C #fff;}
+#CTSo,#CUrl {width:574px;float:right;}
+#CTWh .tit {background:#fff;border-color:#EBE9ED;border-width:1px 0 0 0;border-width:1px 0 0 0;padding:1px 1px 0 1px;color:#000;}
+#Hot .tit {background:#D0E4FD;color:#000;border-color:#D0E4FD;}
+#Hot .tit a,#Hot .tit a:visited {color:#000;}
+#CTWh .txt {background:#FFF9EE;color:inherit;border-color:#EBE9ED;}
+#Hot .txt {background:#F7F7F7;color:inherit;border-color:#D0E4FD;}
+#Hot .txt ul {background:#fcfcfc;color:inherit;}
+#Hot .txt li a.fst {color:#ff2a00;background:inherit;}
+#Hot .txt li a.sec {color:#000;background:inherit;}
+#SAd1 {background:#F7F7F7;border-top:1px dotted #D0E4FD;}
+#CS1 .tit a {color:#000;background:inherit;}
+#CS2 .tit a {color:#f00;background:inherit;}
+#CS2 .InpTxt {border-color:#ccc;}
+#CS2 .Btn {background:#FFCF5B;color:inherit;border-color:#fff #85878C #85878C #fff;}
+.CM .tit h2 {color:#fff;background:inherit;}
+#CM1 {border-color:#D0E4FD;}
+#CM1 .tit {border-color:#D0E4FD;background:#F7F7F7;}
+#CM1 .tit a.cur {color:#000;background:#D0E4FD;}
+#CM2 {border-color:#77A7EF;}
+#CM2 .tit {background:#D2E4FC;color:inherit;}
+#CM2 .tit h2 {background:#77A7EF;color:#fff;}
+#CM2 .tit ul a,#CM2 .tit ul a:visited {color:#0075EB;}
+#CM2 .txt ul.bg0 {background:#fff;color:inherit;}
+#CM2 .txt ul.bg1 {background:#F1F1FD;color:inherit;}
+#CM2 .txt li a {background:url(img3/icon_li_1.gif) no-repeat 100% 50%;}
+#CM3 {border-color:#74C200;}
+#CM3 .tit {background:#D8FF9D;color:inherit;}
+#CM3 .tit h2 {background:#74C200;color:#fff;}
+#CM3 dl.bg0 {background:#fff;color:inherit;}
+#CM3 dl.bg1 {background:#F5FEE7;color:inherit;}
+#CM3 dt a {color:#030;background:inherit;}
+#CM3 dt a:hover {color:#f00;background:inherit;}
+#DirNav .tit {border-color:#D0E4FD;background:#D0E4FD;}
+.UrlSort {border-color:#D2E4FC;}
+.UrlTit {background:#D2E4FC;border-color:#eee;color:inherit;}
+.UrlTit h2 {background:#77A7EF;color:#fff;}
+.UrlTit h2 .desc {color:#f00;}
+.UrlTxt ul li {border-color:#eee;}
+.UrlTxt .commend {color:#f00;}
+.SoKeys dt {color:#f60;}
+.SoKeys dd a,.SoKeys dd a:visited {color:#0075EB;}
+.SubPage #CM2 .tit h2 {background:#0075EB;color:#fff;}
+.RtBox {border-color:#D6E7FF;}
+.RtBox .Tit {border-color:#D6E7FF;background:#F7F7F7;color:#73A6EF;}
+.RtBox .Tit a.more {color:#fff;}
+.RtBox .Tit a.more,.RtBox .Tit a.more:visited {color:#73A6EF;background:inherit;}
+.RtBox .Tit a.more:hover {color:#f00;background:inherit;}
+.RtBox ul.X2 li {border-color:#D6E7FF;}
+.RtBox ul.X2 li.lst {border:0;}
